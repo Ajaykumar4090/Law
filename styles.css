@@ -203,20 +203,6 @@ input#slide2:checked ~ .slides .slide:nth-child(2) {
     padding: 0 80px; /* Increase horizontal padding to expand text display */
 }
 
-
-
-/* .contactphoto{
-    padding: 0px 0px;
-    margin-left: 0%;
-    margin-right: 0%;
-}
-.formright {
-    padding: 0px 0px;
-    background-color: white;
-    text-align: center;
-    margin-left:50%;
-} */
-
 .contact-container {
     display: flex;
     justify-content: space-between;
@@ -283,7 +269,7 @@ input#slide2:checked ~ .slides .slide:nth-child(2) {
 }
 .footer-container .social-icons a{
     padding: 10px;
-    margin-left: 15px;
+    margin-left: 12px;
     font-size: 20px;
     border: 2px solid rgba(53, 53, 107, 0.502);
     color: orange;
